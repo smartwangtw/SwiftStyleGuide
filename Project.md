@@ -1,29 +1,29 @@
 # Project files location
 
-## Open workspace file if use Cocoapods
+### Open workspace file if use Cocoapods
 
-Groups below:
-## Model
+## Groups below:
+### Model
 CoreData model file
 CoreData managed classes
 
-## View
+### View
 Storyboard
 XIB
 
-## Controller
+### Controller
 View Controllers
 
-## Library
+### Library
 Global library classes
 
-## Resource
+### Resource
 Assets
 
-## SupportFiles
+### SupportFiles
 Release Notes
 .plist
 AppDelegate
 
-## Function or Module
+### Function or Module
 Funciton or module classes
