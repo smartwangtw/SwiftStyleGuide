@@ -53,6 +53,12 @@ extension MyViewcontroller: UIScrollViewDelegate {
   // scroll view delegate methods
 }
 ```
+##FIXME, TODO
+程式區段可以利用FIXME或TODO來提醒自己未完成的內容
+```
+// FIXME: something needs to fix
+your code
+```
 
 ##計算屬性
 屬性唯讀時，直接利用 return, 而不是再放一個 get
